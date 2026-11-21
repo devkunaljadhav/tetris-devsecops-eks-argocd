@@ -4,7 +4,7 @@ Deploying TETRIS using CI / CD DevSecOps ARGOCD
 Overview
 --------
 Repo-Tetris-V1 - 1 (Version 1): It will create the docker image1 and push to docker hub then have the image id1 updated in the repo 2 manifest file
-Repo K8S-(Manifest) : Contains the manifest file having the latest docker image id and connected to Argo CD 
+Repo devsecops-Tetris-manifest : Contains the manifest file having the latest docker image id and connected to Argo CD 
 Repo-Tetris-V2 (Version2) : t will create the docker image2 and push to docker hub then have the image id2 updated in the repo 2 manifest file
 
 
